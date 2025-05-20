@@ -1,0 +1,1 @@
+An E-Learning system developed using PHP, JavaScript, and MySQL supports course enrollment, video content, a digital library, assessments, and certification. It features comprehensive software development documentation including Function Point Analysis, Gantt charts, and SRS diagrams from use case to sequence diagrams.
